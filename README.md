@@ -1,4 +1,4 @@
-# MEANauthapp
+# Login App with Passport.js
 
 Login app with express.js, passport.js and mongodb
 
