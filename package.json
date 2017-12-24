@@ -1,0 +1,42 @@
+{
+    "name": "node-login-passport-app",
+    "version": "1.0.0",
+    "description": "Node login app with passport",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nikhil1210/node-login-passport.git"
+    },
+    "keywords": [
+        "login",
+        "passport",
+        "mongodb",
+        "mongoose"
+    ],
+    "author": "nikhil.malhotra1210@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "*",
+        "body-parser": "*",
+        "connect-flash": "*",
+        "cookie-parser": "^1.4.1",
+        "express": "*",
+        "express-handlebars": "*",
+        "express-messages": "*",
+        "express-session": "*",
+        "express-validator": "*",
+        "mongodb": "*",
+        "mongoose": "*",
+        "passport": "*",
+        "passport-http": "*",
+        "passport-local": "*"
+    },
+    "bugs": {
+        "url": "https://github.com/Nikhil1210/node-login-passport/issues"
+    },
+    "homepage": "https://github.com/Nikhil1210/node-login-passport#readme"
+}
